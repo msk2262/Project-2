@@ -2,18 +2,18 @@ Testing of OrangeHRM-Demo Website
 
 Contents:
 
-FRS
+1. FRS
 
-Test Plan
+2. Test Plan
 
-Test Scenarios
+3. Test Scenarios
 
-Test Cases
+4. Test Cases
 
-RTM
+5. RTM
 
-Test Results
+6. Test Results
 
-Bug Report
+7. Bug Report
 
-Project Sample Test(Selenium-Java)
+8. Project Sample Test(Selenium-Java)
