@@ -1,6 +1,6 @@
 Testing of OrangeHRM-Demo Website
 
-Contents
+Contents:
 
 FRS
 
